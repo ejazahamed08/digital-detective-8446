@@ -1,3 +1,5 @@
+Repo was merged on terminal.
+
 | Git operation | What it does in your own words |
 |---|---|
 | Check repository status | git status : staging status |
