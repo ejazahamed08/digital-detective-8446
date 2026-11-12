@@ -1,0 +1,7 @@
+print(bin(13))
+print(bin(25))
+print(int('1010', 2))
+print(int('1101', 2))
+print(int('A', 16))
+print(int('1F', 16))
+print(hex(int('1111', 2)))
